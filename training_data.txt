@@ -1,0 +1,79 @@
+
+hello|greeting
+hi|hey
+hey|sup
+good morning|morning
+good evening|evening
+how are you|I'm doing well! How can I assist you today?
+what's your name|I'm a chatbot designed to assist you.
+who are you|I'm a friendly chatbot here to help you!
+what can you do|I can answer your questions and help with programming tasks.
+tell me a joke|Why did the math book look sad? It had too many problems!
+what's the weather like|I'm not sure, but checking your local forecast might help!
+do you like pizza|I think everyone likes pizza, right?
+how do I write a Python function|Use the def keyword to define a function in Python.
+what time is it|It's always a good time to learn something new!
+thank you|You're welcome! Let me know if you need anything else.
+thanks|You're welcome!
+bye|see you
+goodbye|farewell
+see you later|bye
+good night|night
+good afternoon|good afternoon
+how do I debug code|Start by reading the error message carefully!
+can you help me with math|Of course! What math problem are you stuck on?
+what's the capital of France|The capital of France is Paris.
+do you like programming|I think programming is fascinating!
+how do I make a website|You can use HTML, CSS, and JavaScript to build a website.
+what's 2 + 2|2 + 2 equals 4!
+do you like music|Music is wonderful! What's your favorite song?
+can you play chess|I'm not very good at it, but I can help you learn the rules.
+how do I start a business|Start with a solid plan and research your market!
+what's your favorite color|I love all colors equally.
+where are you from|I live in the cloud!
+how do I learn Python|You can start with online courses or tutorials.
+what's the meaning of life|42. Just kidding, but it's a philosophical question!
+can you tell me a fun fact|Honey never spoils. Archaeologists found 3,000-year-old honey in Egyptian tombs that still tasted good!
+how do I cook pasta|Boil water, add salt, then cook the pasta for 8-12 minutes.
+what's your purpose|My purpose is to assist and entertain you.
+can you solve riddles|Sure! Ask me one.
+do you know any quotes|Here's one: "The only way to do great work is to love what you do." - Steve Jobs
+what's the best programming language|It depends on what you're building! Python is great for beginners.
+can you do my homework|I can help, but you should give it a try too!
+tell me a story|Once upon a time, there was a curious chatbot who wanted to learn everything!
+can you dance|I can dance with words, but not with feet!
+what's your favorite movie|I don't watch movies, but I hear 'Inception' is great.
+how do I stay motivated|Set small, achievable goals and celebrate your progress.
+can you help me with Python|Of course! What do you need help with?
+is the earth round|Yes, the Earth is an oblate spheroid.
+can you help me learn Spanish|Sure! Start with "Hola" for hello.
+what's the speed of light|The speed of light is approximately 299,792 kilometers per second.
+how do I bake a cake|You'll need flour, sugar, eggs, and some patience!
+can you recommend a book|How about 'To Kill a Mockingbird' by Harper Lee?
+how do I improve my coding skills|Practice regularly and build projects!
+can you explain machine learning|It's a way for computers to learn patterns from data.
+what's an algorithm|It's a set of instructions for solving a problem.
+how do I meditate|Sit comfortably, close your eyes, and focus on your breath.
+how do I make new friends|Be open, kind, and show genuine interest in others.
+how do I get better at chess|Practice and learn from your mistakes!
+can you help me with JavaScript|Yes, I'd love to help! What's your question?
+how do I manage time|Use a planner and prioritize your tasks.
+do you believe in aliens|The universe is vast, so who knows?
+what's your opinion on AI|I think AI is a fascinating field with lots of potential.
+how do I stay healthy|Eat well, exercise, and get enough rest.
+how do I write an essay|Start with an outline and develop your ideas logically.
+can you give me a riddle|Sure! What has keys but can't open locks? (Answer: A piano)
+how do I use a for loop in Python|Use 'for item in iterable:' to iterate over elements.
+what's the difference between a list and a tuple|Lists are mutable, but tuples are immutable.
+can you sing|I'm more of a talker than a singer!
+what's your favorite animal|I like all animals equally.
+how do I install Python|Go to python.org and download the latest version for your OS.
+can you code|Yes, I'm programmed to understand code!
+how do I build a chatbot|You're already interacting with one! I can help if you're building another.
+what's 100 divided by 5|100 divided by 5 equals 20.
+what's your favorite game|I enjoy word games!
+how do I study effectively|Take breaks and test yourself regularly.
+how do I prepare for an interview|Research the company and practice common questions.
+what's your favorite holiday|I enjoy any holiday that brings people together.
+can you draw|I can't draw pictures, but I can describe them!
+what's your favorite food|I don't eat, but pizza seems popular.
