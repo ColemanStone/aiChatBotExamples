@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af61499-7183-4df8-a936-b42410d6bd23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/generativeAIBot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AIChatBotExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AIChatBotExample.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3af61499-7183-4df8-a936-b42410d6bd23" name="Changes" comment="Finished all examples for the chatbots">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/advancedChatBot.py" beforeDir="false" afterPath="$PROJECT_DIR$/advancedChatBot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpleChatBot.py" beforeDir="false" afterPath="$PROJECT_DIR$/simpleChatBot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/training_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/training_data.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,21 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.advancedChatBot.executor": "Run",
-    "Python.generativeAIBot.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.advancedChatBot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generativeAIBot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simpleChatBot.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,15 +72,32 @@
       <option name="presentableId" value="Default" />
       <updated>1728996971669</updated>
       <workItem from="1728996978497" duration="1000" />
-      <workItem from="1729002206751" duration="1205000" />
+      <workItem from="1729002206751" duration="2108000" />
+      <workItem from="1729008448022" duration="2703000" />
+      <workItem from="1729015736768" duration="9000" />
+      <workItem from="1729016496019" duration="51000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished all examples for the chatbots">
+      <option name="closed" value="true" />
+      <created>1729003442269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729003442269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished all examples for the chatbots" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished all examples for the chatbots" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/aiChatBotExamples$generativeAIBot.coverage" NAME="generativeAIBot Coverage Results" MODIFIED="1729003381607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/aiChatBotExamples$advancedChatBot.coverage" NAME="advancedChatBot Coverage Results" MODIFIED="1729002561275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/aiChatBotExamples$generativeAIBot.coverage" NAME="generativeAIBot Coverage Results" MODIFIED="1729009188330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/aiChatBotExamples$simpleChatBot.coverage" NAME="simpleChatBot Coverage Results" MODIFIED="1729009397063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/aiChatBotExamples$advancedChatBot.coverage" NAME="advancedChatBot Coverage Results" MODIFIED="1729009603869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
